@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kyle-Boone
 - 👀 I’m interested in physics, mathematics, and programming.
-- 🌱 I’m currently learning about synthetic source injection for cosmological surveys.
+- 🌱 I’m currently working on using synthetic source injection to correct bias in astronomical surveys.
 - 💞️ I’m looking to collaborate on programming in python and common practices used in astronomy.
 - 📫 How to reach me: kkboone@wisc.edu
 
