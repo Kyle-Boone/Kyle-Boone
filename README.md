@@ -2,7 +2,7 @@
 - 👀 I’m interested in physics, mathematics, and programming.
 - 🌱 I’m currently working on using synthetic source injection to correct bias in astronomical surveys.
 - 💞️ I’m looking to collaborate on programming in python and common practices used in astronomy.
-- 📫 How to reach me: kkboone@wisc.edu
+- 📫 How to reach me: kboone@g.harvard.edu
 
 <!---
 Kyle-Boone/Kyle-Boone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
